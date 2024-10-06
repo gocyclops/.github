@@ -1,1 +1,2 @@
-# .github
+# Cyclops
+Go backend boilerplate.
